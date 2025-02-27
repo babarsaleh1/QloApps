@@ -49,3 +49,4 @@ class Adapter_AddressFactory
         return Address::addressExists($id_address);
     }
 }
+* http://opensource.org/licenses/osl-3.0.php.fix
